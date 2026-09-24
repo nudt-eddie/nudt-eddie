@@ -1,37 +1,61 @@
-## Hi there 👋
+# Eddie
 
-<!--
-**nudt-eddie/nudt-eddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Researcher · Autonomous Agents · Computer-Use Agents**
 
-Here are some ideas to get you started:<!--
-<h2 align="center">
-  Welcome to Eddie's Github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+I work on **autonomous agents that learn from interaction and act reliably in real-world environments**.
 
+My current research focuses on **computer-use agents**, with broader interests in agent learning, planning and reasoning, reliable execution, and continual improvement.
 
-<h2 align="center">
-  Welcome to Eddie's Github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+## Research Interests
 
+* **Computer-Use Agents**
+* **Learning from Interaction**
+* **Agent Planning & Reasoning**
+* **Reliable Autonomous Execution**
+* **Agent Evaluation**
+* **Continual & Self-Improving Agents**
+* **Multimodal Interactive Systems**
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+researcher;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
+I am particularly interested in moving AI agents beyond isolated model predictions toward **persistent systems that can acquire reusable capabilities, interact with dynamic environments, and improve through experience and feedback**.
 
-<div align="center">
-  <img alt="nudt-eddie's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nudt-eddie&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="nudt-eddie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudt-eddie&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <br/>
-  <img alt="nudt-eddie's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nudt-eddie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</div>
+## Research
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nudt-eddie's streak" src="https://streak-stats.demolab.com/?user=nudt-eddie&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+My research explores several closely related questions:
 
+**How can agents learn reusable capabilities from interaction?**
+Studying how experience from humans, environments, and previous executions can be transformed into knowledge that agents can reuse across tasks.
+
+**How should agents reason and act over long-horizon tasks?**
+Investigating representations and decision-making mechanisms that support structured, persistent, and adaptive behavior.
+
+**How can autonomous agents remain reliable in real environments?**
+Understanding execution failures, state changes, uncertainty, recovery, and verification during interaction.
+
+**How can agents improve from their own experience?**
+Exploring how evaluation, feedback, and execution traces can support continual improvement of agent behavior.
+
+## Current Focus
+
+### Reliable Computer-Use Agents
+
+I am currently studying agents that interact with graphical user interfaces and computer environments to accomplish real-world tasks.
+
+My work spans both **algorithmic research and research infrastructure**, with an emphasis on building systems that can be rigorously evaluated through actual interaction rather than static prediction alone.
+
+## Selected Work
+
+My projects broadly cover:
+
+* learning agent capabilities from interaction,
+* computer-use and GUI agent systems,
+* structured agent execution,
+* agent evaluation and behavioral analysis,
+* research infrastructure for interactive AI.
+
+Selected research code, datasets, and experimental artifacts will be released as projects mature.
+
+## Open Source
+
+I use GitHub to maintain research code, experimental systems, datasets, and reproducible artifacts.
+
+**Selected repositories are pinned below.**
